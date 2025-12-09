@@ -1,0 +1,4 @@
+/server
+/client
+/to_server.fifo
+/from_server.fifo
